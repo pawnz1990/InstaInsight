@@ -1,0 +1,9 @@
+aiofiles==24.1.0
+greenlet==3.2.2
+playwright==1.52.0
+psutil==7.0.0
+pyee==13.0.0
+python-dotenv==1.1.0
+typing_extensions==4.13.2
+Unidecode==1.4.0
+wheel==0.45.1

@@ -1,0 +1,13 @@
+{
+  "user_data_dir": "user_data",
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  },
+  "timezone_id": "Africa/Nairobi",
+  "log_level": "INFO",
+  "max_profiles": 100,
+  "min_followers": 25000,
+  "max_followers": 3200000,
+  "min_engagement": 10000
+}

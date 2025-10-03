@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv/
+*.venv/*
+
+# Virtual Environment
+.venv/
+env/
+ENV/
+venv/
+
+# Logs
+*.log
+*.sqlite3
+
+# CSV and progress files
+*.csv
+scraper_progress.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Playwright folders
+playwright-report/
+user_data/
